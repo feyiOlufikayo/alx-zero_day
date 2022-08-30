@@ -1,2 +1,1 @@
-My first read me
-non empty readme
+My first readme
